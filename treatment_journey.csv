@@ -1,0 +1,121 @@
+Patient_ID,Protocol,Cycle_Number,Treatment_Date,Drug_Administered,Dose_Given_mg,Route,Supportive_Care_Medications
+PT-01,AC-T,1,2025-01-05,Doxorubicin,108,IV,Ondansetron; Dexamethasone
+PT-01,AC-T,2,2025-01-26,Cyclophosphamide,1080,IV,Mesna; Ondansetron
+PT-01,AC-T,3,2025-02-16,Paclitaxel,180,IV,Diphenhydramine; Dexamethasone
+PT-01,AC-T,4,2025-03-09,Paclitaxel,180,IV,Diphenhydramine; Dexamethasone
+PT-02,FOLFOX,1,2025-01-11,Oxaliplatin,170,IV,Ondansetron
+PT-02,FOLFOX,2,2025-02-01,Leucovorin,400,IV,Ondansetron
+PT-02,FOLFOX,3,2025-02-22,5-Fluorouracil,4600,IV,Ondansetron
+PT-02,FOLFOX,4,2025-03-15,5-Fluorouracil,4600,IV,Ondansetron
+PT-03,R-CHOP,1,2025-01-17,Rituximab,700,IV,Prednisone; Ondansetron
+PT-03,R-CHOP,2,2025-02-07,Cyclophosphamide,1250,IV,Prednisone; Ondansetron
+PT-03,R-CHOP,3,2025-02-28,Doxorubicin,105,IV,Prednisone; Ondansetron
+PT-03,R-CHOP,4,2025-03-21,Vincristine,2,IV,Prednisone; Ondansetron
+PT-04,Cisplatin-Pemetrexed,1,2025-01-23,Cisplatin,150,IV,Ondansetron; Dexamethasone
+PT-04,Cisplatin-Pemetrexed,2,2025-02-13,Pemetrexed,750,IV,Folic acid; Vitamin B12
+PT-04,Cisplatin-Pemetrexed,3,2025-03-06,Pembrolizumab,200,IV,None
+PT-04,Cisplatin-Pemetrexed,4,2025-03-27,Pemetrexed,750,IV,Folic acid; Vitamin B12
+PT-05,Carboplatin-Paclitaxel,1,2025-01-29,Carboplatin,550,IV,Ondansetron; Dexamethasone
+PT-05,Carboplatin-Paclitaxel,2,2025-02-19,Paclitaxel,280,IV,Diphenhydramine; Dexamethasone
+PT-05,Carboplatin-Paclitaxel,3,2025-03-12,Carboplatin,550,IV,Ondansetron; Dexamethasone
+PT-05,Carboplatin-Paclitaxel,4,2025-04-02,Paclitaxel,280,IV,Diphenhydramine; Dexamethasone
+PT-06,Cisplatin-RT,1,2025-02-04,Cisplatin,100,IV,Ondansetron; Magnesium
+PT-06,Cisplatin-RT,2,2025-02-25,Cisplatin,100,IV,Ondansetron; Magnesium
+PT-06,Cisplatin-RT,3,2025-03-18,Cisplatin,100,IV,Ondansetron; Magnesium
+PT-06,Cisplatin-RT,4,2025-04-08,Cisplatin,100,IV,Ondansetron; Magnesium
+PT-07,AC-T,1,2025-02-10,Doxorubicin,108,IV,Ondansetron; Dexamethasone
+PT-07,AC-T,2,2025-03-03,Cyclophosphamide,1080,IV,Mesna; Ondansetron
+PT-07,AC-T,3,2025-03-24,Paclitaxel,180,IV,Diphenhydramine; Dexamethasone
+PT-07,AC-T,4,2025-04-14,Paclitaxel,180,IV,Diphenhydramine; Dexamethasone
+PT-08,FOLFOX,1,2025-02-16,Oxaliplatin,170,IV,Ondansetron
+PT-08,FOLFOX,2,2025-03-09,Leucovorin,400,IV,Ondansetron
+PT-08,FOLFOX,3,2025-03-30,5-Fluorouracil,4600,IV,Ondansetron
+PT-08,FOLFOX,4,2025-04-20,5-Fluorouracil,4600,IV,Ondansetron
+PT-09,R-CHOP,1,2025-02-22,Rituximab,700,IV,Prednisone; Ondansetron
+PT-09,R-CHOP,2,2025-03-15,Cyclophosphamide,1250,IV,Prednisone; Ondansetron
+PT-09,R-CHOP,3,2025-04-05,Doxorubicin,105,IV,Prednisone; Ondansetron
+PT-09,R-CHOP,4,2025-04-26,Vincristine,2,IV,Prednisone; Ondansetron
+PT-10,Cisplatin-Pemetrexed,1,2025-02-28,Cisplatin,150,IV,Ondansetron; Dexamethasone
+PT-10,Cisplatin-Pemetrexed,2,2025-03-21,Pemetrexed,750,IV,Folic acid; Vitamin B12
+PT-10,Cisplatin-Pemetrexed,3,2025-04-11,Pembrolizumab,200,IV,None
+PT-10,Cisplatin-Pemetrexed,4,2025-05-02,Pemetrexed,750,IV,Folic acid; Vitamin B12
+PT-11,Carboplatin-Paclitaxel,1,2025-03-06,Carboplatin,550,IV,Ondansetron; Dexamethasone
+PT-11,Carboplatin-Paclitaxel,2,2025-03-27,Paclitaxel,280,IV,Diphenhydramine; Dexamethasone
+PT-11,Carboplatin-Paclitaxel,3,2025-04-17,Carboplatin,550,IV,Ondansetron; Dexamethasone
+PT-11,Carboplatin-Paclitaxel,4,2025-05-08,Paclitaxel,280,IV,Diphenhydramine; Dexamethasone
+PT-12,Cisplatin-RT,1,2025-03-12,Cisplatin,100,IV,Ondansetron; Magnesium
+PT-12,Cisplatin-RT,2,2025-04-02,Cisplatin,100,IV,Ondansetron; Magnesium
+PT-12,Cisplatin-RT,3,2025-04-23,Cisplatin,100,IV,Ondansetron; Magnesium
+PT-12,Cisplatin-RT,4,2025-05-14,Cisplatin,100,IV,Ondansetron; Magnesium
+PT-13,AC-T,1,2025-03-18,Doxorubicin,108,IV,Ondansetron; Dexamethasone
+PT-13,AC-T,2,2025-04-08,Cyclophosphamide,1080,IV,Mesna; Ondansetron
+PT-13,AC-T,3,2025-04-29,Paclitaxel,180,IV,Diphenhydramine; Dexamethasone
+PT-13,AC-T,4,2025-05-20,Paclitaxel,180,IV,Diphenhydramine; Dexamethasone
+PT-14,FOLFOX,1,2025-03-24,Oxaliplatin,170,IV,Ondansetron
+PT-14,FOLFOX,2,2025-04-14,Leucovorin,400,IV,Ondansetron
+PT-14,FOLFOX,3,2025-05-05,5-Fluorouracil,4600,IV,Ondansetron
+PT-14,FOLFOX,4,2025-05-26,5-Fluorouracil,4600,IV,Ondansetron
+PT-15,R-CHOP,1,2025-03-30,Rituximab,700,IV,Prednisone; Ondansetron
+PT-15,R-CHOP,2,2025-04-20,Cyclophosphamide,1250,IV,Prednisone; Ondansetron
+PT-15,R-CHOP,3,2025-05-11,Doxorubicin,105,IV,Prednisone; Ondansetron
+PT-15,R-CHOP,4,2025-06-01,Vincristine,2,IV,Prednisone; Ondansetron
+PT-16,Cisplatin-Pemetrexed,1,2025-04-05,Cisplatin,150,IV,Ondansetron; Dexamethasone
+PT-16,Cisplatin-Pemetrexed,2,2025-04-26,Pemetrexed,750,IV,Folic acid; Vitamin B12
+PT-16,Cisplatin-Pemetrexed,3,2025-05-17,Pembrolizumab,200,IV,None
+PT-16,Cisplatin-Pemetrexed,4,2025-06-07,Pemetrexed,750,IV,Folic acid; Vitamin B12
+PT-17,Carboplatin-Paclitaxel,1,2025-04-11,Carboplatin,550,IV,Ondansetron; Dexamethasone
+PT-17,Carboplatin-Paclitaxel,2,2025-05-02,Paclitaxel,280,IV,Diphenhydramine; Dexamethasone
+PT-17,Carboplatin-Paclitaxel,3,2025-05-23,Carboplatin,550,IV,Ondansetron; Dexamethasone
+PT-17,Carboplatin-Paclitaxel,4,2025-06-13,Paclitaxel,280,IV,Diphenhydramine; Dexamethasone
+PT-18,Cisplatin-RT,1,2025-04-17,Cisplatin,100,IV,Ondansetron; Magnesium
+PT-18,Cisplatin-RT,2,2025-05-08,Cisplatin,100,IV,Ondansetron; Magnesium
+PT-18,Cisplatin-RT,3,2025-05-29,Cisplatin,100,IV,Ondansetron; Magnesium
+PT-18,Cisplatin-RT,4,2025-06-19,Cisplatin,100,IV,Ondansetron; Magnesium
+PT-19,AC-T,1,2025-04-23,Doxorubicin,108,IV,Ondansetron; Dexamethasone
+PT-19,AC-T,2,2025-05-14,Cyclophosphamide,1080,IV,Mesna; Ondansetron
+PT-19,AC-T,3,2025-06-04,Paclitaxel,180,IV,Diphenhydramine; Dexamethasone
+PT-19,AC-T,4,2025-06-25,Paclitaxel,180,IV,Diphenhydramine; Dexamethasone
+PT-20,FOLFOX,1,2025-04-29,Oxaliplatin,170,IV,Ondansetron
+PT-20,FOLFOX,2,2025-05-20,Leucovorin,400,IV,Ondansetron
+PT-20,FOLFOX,3,2025-06-10,5-Fluorouracil,4600,IV,Ondansetron
+PT-20,FOLFOX,4,2025-07-01,5-Fluorouracil,4600,IV,Ondansetron
+PT-21,R-CHOP,1,2025-05-05,Rituximab,700,IV,Prednisone; Ondansetron
+PT-21,R-CHOP,2,2025-05-26,Cyclophosphamide,1250,IV,Prednisone; Ondansetron
+PT-21,R-CHOP,3,2025-06-16,Doxorubicin,105,IV,Prednisone; Ondansetron
+PT-21,R-CHOP,4,2025-07-07,Vincristine,2,IV,Prednisone; Ondansetron
+PT-22,Cisplatin-Pemetrexed,1,2025-05-11,Cisplatin,150,IV,Ondansetron; Dexamethasone
+PT-22,Cisplatin-Pemetrexed,2,2025-06-01,Pemetrexed,750,IV,Folic acid; Vitamin B12
+PT-22,Cisplatin-Pemetrexed,3,2025-06-22,Pembrolizumab,200,IV,None
+PT-22,Cisplatin-Pemetrexed,4,2025-07-13,Pemetrexed,750,IV,Folic acid; Vitamin B12
+PT-23,Carboplatin-Paclitaxel,1,2025-05-17,Carboplatin,550,IV,Ondansetron; Dexamethasone
+PT-23,Carboplatin-Paclitaxel,2,2025-06-07,Paclitaxel,280,IV,Diphenhydramine; Dexamethasone
+PT-23,Carboplatin-Paclitaxel,3,2025-06-28,Carboplatin,550,IV,Ondansetron; Dexamethasone
+PT-23,Carboplatin-Paclitaxel,4,2025-07-19,Paclitaxel,280,IV,Diphenhydramine; Dexamethasone
+PT-24,Cisplatin-RT,1,2025-05-23,Cisplatin,100,IV,Ondansetron; Magnesium
+PT-24,Cisplatin-RT,2,2025-06-13,Cisplatin,100,IV,Ondansetron; Magnesium
+PT-24,Cisplatin-RT,3,2025-07-04,Cisplatin,100,IV,Ondansetron; Magnesium
+PT-24,Cisplatin-RT,4,2025-07-25,Cisplatin,100,IV,Ondansetron; Magnesium
+PT-25,AC-T,1,2025-05-29,Doxorubicin,108,IV,Ondansetron; Dexamethasone
+PT-25,AC-T,2,2025-06-19,Cyclophosphamide,1080,IV,Mesna; Ondansetron
+PT-25,AC-T,3,2025-07-10,Paclitaxel,180,IV,Diphenhydramine; Dexamethasone
+PT-25,AC-T,4,2025-07-31,Paclitaxel,180,IV,Diphenhydramine; Dexamethasone
+PT-26,FOLFOX,1,2025-06-04,Oxaliplatin,170,IV,Ondansetron
+PT-26,FOLFOX,2,2025-06-25,Leucovorin,400,IV,Ondansetron
+PT-26,FOLFOX,3,2025-07-16,5-Fluorouracil,4600,IV,Ondansetron
+PT-26,FOLFOX,4,2025-08-06,5-Fluorouracil,4600,IV,Ondansetron
+PT-27,R-CHOP,1,2025-06-10,Rituximab,700,IV,Prednisone; Ondansetron
+PT-27,R-CHOP,2,2025-07-01,Cyclophosphamide,1250,IV,Prednisone; Ondansetron
+PT-27,R-CHOP,3,2025-07-22,Doxorubicin,105,IV,Prednisone; Ondansetron
+PT-27,R-CHOP,4,2025-08-12,Vincristine,2,IV,Prednisone; Ondansetron
+PT-28,Cisplatin-Pemetrexed,1,2025-06-16,Cisplatin,150,IV,Ondansetron; Dexamethasone
+PT-28,Cisplatin-Pemetrexed,2,2025-07-07,Pemetrexed,750,IV,Folic acid; Vitamin B12
+PT-28,Cisplatin-Pemetrexed,3,2025-07-28,Pembrolizumab,200,IV,None
+PT-28,Cisplatin-Pemetrexed,4,2025-08-18,Pemetrexed,750,IV,Folic acid; Vitamin B12
+PT-29,Carboplatin-Paclitaxel,1,2025-06-22,Carboplatin,550,IV,Ondansetron; Dexamethasone
+PT-29,Carboplatin-Paclitaxel,2,2025-07-13,Paclitaxel,280,IV,Diphenhydramine; Dexamethasone
+PT-29,Carboplatin-Paclitaxel,3,2025-08-03,Carboplatin,550,IV,Ondansetron; Dexamethasone
+PT-29,Carboplatin-Paclitaxel,4,2025-08-24,Paclitaxel,280,IV,Diphenhydramine; Dexamethasone
+PT-30,Cisplatin-RT,1,2025-06-28,Cisplatin,100,IV,Ondansetron; Magnesium
+PT-30,Cisplatin-RT,2,2025-07-19,Cisplatin,100,IV,Ondansetron; Magnesium
+PT-30,Cisplatin-RT,3,2025-08-09,Cisplatin,100,IV,Ondansetron; Magnesium
+PT-30,Cisplatin-RT,4,2025-08-30,Cisplatin,100,IV,Ondansetron; Magnesium

@@ -1,0 +1,31 @@
+Patient_ID,Age,Sex,Height_cm,Weight_kg,Cancer_Diagnosis,Disease_Stage,ECOG,Baseline_CBC,Serum_Creatinine_mg_dL,AST_U_L,ALT_U_L,Bilirubin_mg_dL
+PT-01,37,Female,156,52,Breast cancer,Stage IIIB,1,"WBC 5.0, Hgb 11.2, Plt 202",0.83,27,25,0.62
+PT-02,40,Male,158,56,Colorectal cancer,Stage III,1,"WBC 5.4, Hgb 11.6, Plt 214",0.91,30,28,0.74
+PT-03,43,Male,160,60,Diffuse large B-cell lymphoma,Stage II,2,"WBC 5.8, Hgb 12.0, Plt 226",0.99,33,31,0.86
+PT-04,46,Female,162,64,Lung adenocarcinoma,Stage IV,1,"WBC 6.2, Hgb 10.8, Plt 238",1.19,36,34,1.16
+PT-05,49,Male,164,68,Ovarian cancer,Stage IIIC,1,"WBC 4.6, Hgb 11.2, Plt 250",1.15,39,37,0.5
+PT-06,52,Male,166,72,Head and neck squamous cell carcinoma,Stage IVA,2,"WBC 5.0, Hgb 11.6, Plt 190",1.35,42,40,0.62
+PT-07,55,Female,168,50,Breast cancer,Stage IIIB,1,"WBC 5.4, Hgb 12.0, Plt 202",0.75,45,43,0.74
+PT-08,58,Male,170,54,Colorectal cancer,Stage III,1,"WBC 5.8, Hgb 10.8, Plt 214",0.83,24,46,0.86
+PT-09,61,Male,154,58,Diffuse large B-cell lymphoma,Stage II,2,"WBC 6.2, Hgb 11.2, Plt 226",0.91,27,22,0.98
+PT-10,64,Male,156,62,Lung adenocarcinoma,Stage IV,1,"WBC 4.6, Hgb 11.6, Plt 238",1.11,30,25,0.68
+PT-11,34,Female,158,66,Ovarian cancer,Stage IIIC,1,"WBC 5.0, Hgb 12.0, Plt 250",1.07,33,28,0.62
+PT-12,37,Male,160,70,Head and neck squamous cell carcinoma,Stage IVA,2,"WBC 5.4, Hgb 10.8, Plt 190",1.27,36,31,0.74
+PT-13,40,Female,162,48,Breast cancer,Stage IIIB,1,"WBC 5.8, Hgb 11.2, Plt 202",1.23,39,34,0.86
+PT-14,43,Male,164,52,Colorectal cancer,Stage III,1,"WBC 6.2, Hgb 11.6, Plt 214",0.75,42,37,0.98
+PT-15,46,Male,166,56,Diffuse large B-cell lymphoma,Stage II,2,"WBC 4.6, Hgb 12.0, Plt 226",0.83,45,40,0.5
+PT-16,49,Female,168,60,Lung adenocarcinoma,Stage IV,1,"WBC 5.0, Hgb 10.8, Plt 238",1.03,24,43,0.8
+PT-17,52,Female,170,64,Ovarian cancer,Stage IIIC,1,"WBC 5.4, Hgb 11.2, Plt 250",0.99,27,46,0.74
+PT-18,55,Male,154,68,Head and neck squamous cell carcinoma,Stage IVA,2,"WBC 5.8, Hgb 11.6, Plt 190",1.19,30,22,0.86
+PT-19,58,Female,156,72,Breast cancer,Stage IIIB,1,"WBC 6.2, Hgb 12.0, Plt 202",1.15,33,25,0.98
+PT-20,61,Male,158,50,Colorectal cancer,Stage III,1,"WBC 4.6, Hgb 10.8, Plt 214",1.23,36,28,0.5
+PT-21,64,Male,160,54,Diffuse large B-cell lymphoma,Stage II,2,"WBC 5.0, Hgb 11.2, Plt 226",0.75,39,31,0.62
+PT-22,34,Female,162,58,Lung adenocarcinoma,Stage IV,1,"WBC 5.4, Hgb 11.6, Plt 238",0.95,42,34,0.92
+PT-23,37,Female,164,62,Ovarian cancer,Stage IIIC,1,"WBC 5.8, Hgb 12.0, Plt 250",0.91,45,37,0.86
+PT-24,40,Male,166,66,Head and neck squamous cell carcinoma,Stage IVA,2,"WBC 6.2, Hgb 10.8, Plt 190",1.11,24,40,0.98
+PT-25,43,Male,168,70,Breast cancer,Stage IIIB,1,"WBC 4.6, Hgb 11.2, Plt 202",1.07,27,43,0.5
+PT-26,46,Male,170,48,Colorectal cancer,Stage III,1,"WBC 5.0, Hgb 11.6, Plt 214",1.15,30,46,0.62
+PT-27,49,Male,154,52,Diffuse large B-cell lymphoma,Stage II,2,"WBC 5.4, Hgb 12.0, Plt 226",1.23,33,22,0.74
+PT-28,52,Female,156,56,Lung adenocarcinoma,Stage IV,1,"WBC 5.8, Hgb 10.8, Plt 238",0.87,36,25,1.04
+PT-29,55,Female,158,60,Ovarian cancer,Stage IIIC,1,"WBC 6.2, Hgb 11.2, Plt 250",0.83,39,28,0.98
+PT-30,58,Male,160,64,Head and neck squamous cell carcinoma,Stage IVA,2,"WBC 4.6, Hgb 11.6, Plt 190",1.03,42,31,0.5
